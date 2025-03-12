@@ -12,7 +12,7 @@ const Navbar = () => {
                 href="#"
                 aria-label="Brand"
               >
-                Brand
+                Career Catalyst
               </a>
               {/* Collapse Button */}
               <button
